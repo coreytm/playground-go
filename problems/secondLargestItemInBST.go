@@ -7,3 +7,5 @@ type (
 		right *Node
 	}
 )
+
+func (n *Node) get
